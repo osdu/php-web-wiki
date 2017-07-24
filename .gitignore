@@ -11,4 +11,6 @@
 
 # private config
 /dokuwiki/conf/users.auth.php
+/dokuwiki/conf/local.php.bak
+/dokuwiki/conf/plugins.local.php.bak
 
